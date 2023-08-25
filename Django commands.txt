@@ -1,0 +1,27 @@
+Creating virtual environment for django:
+cmd:
+pip install virtualenvwrapper-win
+mkvirtualenv anyjob
+
+for activating virtual env:
+workon anyjob
+
+for installing django:
+pip install django
+
+for deactivating virtual env:
+deactivate
+
+for creating a project:
+workon anyjob
+django-admin startproject AnyJob
+
+for creating a app in a project:
+python manage.py startapp job
+
+for running server:
+python manage.py runserver
+
+for migrations:
+python manage.py makemigrations
+python manage.py migrate
