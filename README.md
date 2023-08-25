@@ -1,4 +1,4 @@
-# AnyJob Job Portal 👨‍🎓🔎
+# AnyJob (Job Portal) 👨‍🎓🔎
 Fully functioning Job Portal Website using HTML, CSS, Javascript, Python.
 The website contains:
 - Home page
@@ -6,9 +6,9 @@ The website contains:
 - Admin
 - User
 - Company
-- Django
 - Authentication
-- Searching
+- Searching person
+- Searching Job
 - Job request
 - Job Application
 - Job list
