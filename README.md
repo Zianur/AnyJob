@@ -1,4 +1,4 @@
-# AnyJob 👨‍🎓🔎
+# AnyJob Job Portal 👨‍🎓🔎
 Responsive fully functioning Job Portal Website using HTML, CSS, Javascript, Python.
 The website contains:
 - Home page
